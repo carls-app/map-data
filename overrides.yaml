@@ -166,3 +166,9 @@ changes:
         [-93.1530584317, 44.4600313529],
       ]
     ]
+  - id: musichall
+    name: Old Music Hall
+    departments:
+      - Biochemistry <https://apps.carleton.edu/curricular/bioc/>
+      - Chemistry <https://apps.carleton.edu/curricular/chem/>
+      - Geology <https://apps.carleton.edu/curricular/geol/>

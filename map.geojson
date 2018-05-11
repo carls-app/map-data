@@ -7749,8 +7749,9 @@
 					"hall"
 				],
 				"departments": [
-					"American Music <https://apps.carleton.edu/curricular/american-music/>",
-					"Music <https://apps.carleton.edu/curricular/musc/>"
+					"Biochemistry <https://apps.carleton.edu/curricular/bioc/>",
+					"Chemistry <https://apps.carleton.edu/curricular/chem/>",
+					"Geology <https://apps.carleton.edu/curricular/geol/>"
 				],
 				"description": "",
 				"floors": [
@@ -7759,7 +7760,7 @@
 					"2nd <https://apps.carleton.edu/map/musichall/floors/2/>",
 					"3rd <https://apps.carleton.edu/map/musichall/floors/3/>"
 				],
-				"name": "Music Hall",
+				"name": "Old Music Hall",
 				"nickname": "",
 				"offices": [],
 				"photos": [
