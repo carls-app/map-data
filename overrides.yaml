@@ -1,5 +1,6 @@
 additions: []
-removals: []
+removals:
+  - id: mudd
 changes:
   - id: prairiewarehouse
     centerpoint: [-93.146459, 44.454619]
