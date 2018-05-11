@@ -65,6 +65,11 @@ changes:
     # split the inner and outer building outlines into two rings,
     # so there aren't any wierd lines wandering around.
     id: weitz
+    departments:
+      - American Music <https://apps.carleton.edu/curricular/american-music/>
+      - Cinema and Media Studies <https://apps.carleton.edu/curricular/cams/>
+      - Music <https://apps.carleton.edu/curricular/musc/>
+      - Theater and Dance <https://apps.carleton.edu/curricular/thea/>
     outline: [
       [
         [-93.1554080737, 44.4570940138],
